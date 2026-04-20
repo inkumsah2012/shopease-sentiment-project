@@ -12,16 +12,18 @@ from config.constant import (
     max_length,
     Train_Data,
     Test_Data,
-    Cleaned_Data
+    Cleaned_Data,
+    Input_Data
 )
 from src.data_cleaning import clean_data
 
 logging.basicConfig(level=logging.INFO)
-
+from src.data_ingestion import data_ingestion
+sentiment_data = data_ingestion()
 
 class data_processor:
     def __init__(self):
-        self.data = clean_data(pd.read_csv(Cleaned_Data))
+        self.data = clean_data(pd.read_csv(Input_Data))
 
     def split_data(self):
         try:
