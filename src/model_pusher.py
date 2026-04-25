@@ -1,3 +1,5 @@
+import os
+
 import mlflow
 import mlflow.transformers
 import dagshub
@@ -5,6 +7,9 @@ import logging
 from utils.models_utils import get_best_f1
 from config.constant import model_name,training_args,registered_model_name
 from transformers import pipeline
+
+from dotenv import load_dotenv
+load_dotenv(override=True)
 
 logging.basicConfig(
     level=logging.DEBUG,
@@ -14,17 +19,32 @@ logging.basicConfig(
 class ModelPusher:
     def __init__(self, experiment_name="sentiment_analysis"):
         try:
-            dagshub.init(
-                repo_owner='inkumsah2012',
-                repo_name='shopease-sentiment-project',
-                mlflow=True
-            )
-            self.experiment_name = experiment_name
-            mlflow.set_experiment(experiment_name)
-            logging.info("Model pusher has been successfully initialized.")
-        except Exception as e:
-            logging.error(f"Error occurred while initializing ModelPusher: {e}")
+           # dagshub.init(
+           #     repo_owner='inkumsah2012',
+           #     repo_name='shopease-sentiment-project',
+           #     mlflow=True
+           # )
+ 
+            dagshub_token = os.getenv("Shop_env_DAGSHUB_TOKEN")
 
+            if not dagshub_token:
+                raise EnvironmentError("Shop_env_DAGSHUB_TOKEN environment variable is not set")
+
+            os.environ["MLFLOW_TRACKING_USERNAME"] = dagshub_token
+            os.environ["MLFLOW_TRACKING_PASSWORD"] = dagshub_token
+
+            dagshub_url = "https://dagshub.com"
+            repo_owner = "inkumsah2012"
+            repo_name = "shopease-sentiment-project"
+
+            # Set up MLflow tracking URI
+            mlflow.set_tracking_uri(f"{dagshub_url}/{repo_owner}/{repo_name}.mlflow")
+            mlflow.set_experiment(experiment_name)
+            self.experiment_name = experiment_name
+        except Exception as e:
+            logging.error(f"error while initializing mlflow: {e}")
+
+ 
     def update_model_pusher(self, trainer, metrics):
         try:
             new_f1 = metrics["eval_f1"]
