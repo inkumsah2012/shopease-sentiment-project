@@ -999,3 +999,503 @@ review_id,product_category,timestamp,country,rating,review,sentiment
 48008,Books,2024-03-12,GB,5,"Brilliant product, can't fault it at all.",positive
 118012,Books,2025-12-12,FR,5,Je suis vraiment CONTENT de cet achat. Je recommande vivement.,positive
 62203,Beauty,2024-07-18,GB,5,"Speedy delivery, well packaged, and exactly as described.",positive
+18068,Food & Grocery,2023-06-14,FR,4,"Livraison soignée, produit de qualité. Recommande fortement.",positive
+26751,Books,2023-09-01,US,5,Excellent quality and fast shipping. Will definitely buy again.,positive
+101764,Books,2025-07-16,MX,4,¡Maravilloso! Toda la familia está encantada con el PRODUCTO.,positive
+61816,Sports,2024-07-15,AT,5,Bin sehr happy mit dem Kauf. Alles wie beschrieben.,positive
+48954,Food & Grocery,2024-03-21,ES,5,"Producto perfecto, llegó antes de lo esperado. Muy contento.",positive
+35889,Books,2023-11-23,US,5,Arrived on time and works perfectly. Very satisfied.,positive
+74387,Fashion,2024-11-07,IE,4,"Brilliant product, can't FAULT it at all.",positive
+46961,Fashion,2024-03-03,AT,1,"Schlechte Qualität, sieht gar nicht so aus wie auf den Fotos.",negative
+61618,Food & Grocery,2024-07-13,US,5,"Speedy delivery, well packaged, and exactly as described.",positive
+70089,Books,2024-09-28,FR,4,Super produit! Exactly comme décrit. Livraison express. Bravo!,positive
+36040,Fashion,2023-11-25,AT,5,Produkt ist genau wie beschrieben. Sehr schnelle Lieferung.,positive
+13283,Sports,2023-05-01,CH,4,"Belle qualité, prix raisonnable. Très bonne expérience d'achat.",positive
+79797,Food & Grocery,2024-12-26,US,4,"Superb quality, very sturdy and well-made. Five stars.",positive
+79730,Home & Living,2024-12-26,US,4,Fantastic item! Exceeded all my expectations.,positive
+46668,Electronics,2024-03-01,US,4,This is genuinely one of the BEST products I have bought online.,positive
+47478,Fashion,2024-03-08,GB,5,Excellent quality and fast shipping. Will definitely buy again.,positive
+34668,Food & Grocery,2023-11-12,AR,4,Envío rápido y producto en perfecto estado. Muy contento. 😊,positive
+94192,Food & Grocery,2025-05-08,US,4,"Solid build, attractive design, works as advertised. Love it.",positive
+18626,Sports,2023-06-19,GB,5,Very pleased with this purchase. Quick delivery too!,positive
+91707,Food & Grocery,2025-04-15,US,5,Perfect gift idea. Delivery was speedy and packaging was great.,positive
+4314,Sports,2023-02-08,MX,3,Tres estrellas. Podría mejorar en varios aspectos.,neutral
+37816,Home & Living,2023-12-12,DE,3,"Lieferung war langsam, aber Produkt ist GUT.",neutral
+102864,Beauty,2025-07-26,FR,4,Excellent rapport qualité-prix. Très satisfait de mon achat.,positive
+4119,Fashion,2023-02-06,GB,4,Fantastic item! Exceeded all my expectations.,positive
+41016,Toys,2024-01-11,US,5,Exactly what I was looking for. Great price.,positive
+31381,Electronics,2023-10-14,FR,5,Super produit! Exactly comme décrit. Livraison express. Bravo!,positive
+85042,Electronics,2025-02-13,DE,5,Tolle Qualität und super Preis-Leistungs-Verhältnis. Empfehle es.,positive
+50129,Sports,2024-03-31,FR,5,Vraiment impressionné par la qualité. Je rachèterai.,positive
+112748,Sports,2025-10-24,GB,5,Exactly what I was looking for. Great price.,positive
+21398,Electronics,2023-07-15,CH,5,"Parfait! Rien à redire, je commande à nouveau.",positive
+64743,Fashion,2024-08-10,CA,3,It's alright. Nothing to complain about really.,neutral
+118617,Food & Grocery,2025-12-18,US,4,Product arrived quickly and looks exactly as described. Very happy.,positive
+96401,Beauty,2025-05-28,CH,5,Très content de mon achat. Le produit est encore mieux en vrai.,positive
+22405,Toys,2023-07-24,CH,5,Très content de mon achat. Le produit est encore mieux en vrai.,positive
+78835,Books,2024-12-17,AU,4,Great value for money. Highly recommend to everyone.,positive
+68303,Home & Living,2024-09-12,AU,5,"EXCELLENT product, highly recommend! BEST EVER!!!",positive
+69426,Sports,2024-09-22,FR,5,Excellent! Je suis très satisfait. Cinq étoiles méritées.,positive
+35873,Sports,2023-11-23,FR,4,Livraison rapide et PRODUIT conforme à la description. Parfait!,positive
+36907,Home & Living,2023-12-03,GB,4,Perfect gift idea. Delivery was speedy and packaging was great.,positive
+97792,Home & Living,2025-06-10,ES,5,"Producto perfecto, llegó antes de lo esperado. Muy contento.",positive
+70496,Books,2024-10-02,US,5,This is genuinely one of the best products I have bought online.!,positive
+104306,Fashion,2025-08-08,GB,4,Product arrived quickly and looks exactly as described. Very happy.,positive
+107862,Fashion,2025-09-10,CH,5,"Produit reçu rapidement, bien emballé et conforme. Parfait.",positive
+1431,Toys,2023-01-13,IE,5,Really impressed with the build quality. Would buy again.,positive
+84530,Sports,2025-02-08,DE,5,Ausgezeichnetes Produkt. Übertrifft alle meine Erwartungen. !!!,positive
+98025,Home & Living,2025-06-12,US,5,"Brilliant product, can't fault it at all.",positive
+64491,Sports,2024-08-07,CA,3,Acceptable quality. Could be improved.,neutral
+99299,Toys,2025-06-23,DE,4,Tolle Qualität und super Preis-Leistungs-Verhältnis. Empfehle es.,positive
+18421,Home & Living,2023-06-17,FR,4,Excellent! Je suis très satisfait. Cinq étoiles méritées.,positive
+2030,Food & Grocery,2023-01-18,GB,3,Does the job. Not amazing but not bad either.,neutral
+114546,Home & Living,2025-11-10,GB,1,Do NOT buy this. Cheap rubbish that breaks immediately.,negative
+66569,Beauty,2024-08-27,CA,5,Excellent quality and fast shipping. Will definitely buy again.,positive
+28997,Fashion,2023-09-22,FR,5,Très content de mon achat. Le produit est encore mieux en vrai.,positive
+22071,Beauty,2023-07-21,FR,5,"Très bon produit, fonctionne parfaitement. MERCI!",positive
+71594,Toys,2024-10-12,US,4,Fantastic item! Exceeded all my expectations.,positive
+30600,Fashion,2023-10-06,US,5,Perfect gift idea. Delivery was speedy and packaging was great.,positive
+28099,Food & Grocery,2023-09-13,MX,4,Muy buena relación calidad-precio. Repetiré la compra.,positive
+648,Beauty,2023-01-06,DE,4,"Erstklassige Qualität, SEHR zufrieden. Gerne wieder.",positive
+12384,Fashion,2023-04-23,FR,4,Qualité irréprochable et service client excellent.,positive
+37167,Books,2023-12-05,DE,4,Ich liebe dieses Produkt! ⭐⭐⭐,positive
+85952,Sports,2025-02-21,GB,3,Product is as described. Shipping took longer than expected.,neutral
+86504,Home & Living,2025-02-26,CH,5,Excellent! Je suis très satisfait. Cinq étoiles méritées.,positive
+74168,Books,2024-11-05,GB,2,The worst product I have ever purchased. Total disappointment.,negative
+68568,Beauty,2024-09-14,GB,4,"Speedy delivery, well packaged, and exactly as described.",positive
+108404,Beauty,2025-09-15,GB,3,"Not bad, not great. Does what it needs to do.",neutral
+42519,Toys,2024-01-24,BE,5,Excellent rapport qualité-prix. Très satisfait de mon ACHAT.,positive
+44456,Books,2024-02-11,AT,5,Bin sehr happy mit dem Kauf. Alles wie beschrieben.,positive
+53235,Home & Living,2024-04-28,CA,5,Arrived on time and works perfectly. Very satisfied.,positive
+94773,Toys,2025-05-13,CH,5,"Parfait! Rien à redire, je commande à nouveau.",positive
+23374,Fashion,2023-08-02,US,4,"Brilliant product, can't fault it at all.",positive
+72899,Toys,2024-10-24,GB,5,Exactly what I was looking for. Great price. 😍,positive
+33094,Books,2023-10-29,DE,4,Fantastisches Produkt zu einem fairen Preis. Top!,positive
+114791,Home & Living,2025-11-13,GB,3,C'est correct pour le prix. lol,neutral
+95113,Toys,2025-05-16,GB,4,"Superb quality, very STURDY and well-made. Five stars.",positive
+70708,Beauty,2024-10-04,US,5,"Solid build, attractive design, works as advertised. Love it.",positive
+13268,Books,2023-05-01,CA,4,Outstanding customer experience from start to finish.,positive
+17455,Beauty,2023-06-08,GB,1,Terrible experience. The item arrived broken and support was useless.,negative
+27744,Fashion,2023-09-10,US,5,Do NOT buy this. Cheap rubbish that breaks immediately.,negative
+106760,Home & Living,2025-08-31,AR,2,Producto inútil que se rompió al segundo día. No lo recomiendo.,negative
+5407,Toys,2023-02-18,DE,3,"Ganz in Ordnung. Nicht besonders, aber es erfüllt seinen Zweck.",neutral
+75299,Toys,2024-11-15,US,2,Broken on arrival. Return process was a nightmare.,negative
+87591,Sports,2025-03-08,IE,5,Great value for money. Highly recommend to everyone.,positive
+103406,Home & Living,2025-07-31,US,5,"Amazing product, my whole family loves it. Thank you! !!!",positive
+37772,Food & Grocery,2023-12-11,MX,1,NO vale lo que cuesta. Completa pérdida de dinero.,negative
+19115,Home & Living,2023-06-24,AT,2,Skandalöse QUALITÄT. Definitiv nicht seinen Preis wert.,negative
+34277,Food & Grocery,2023-11-08,MX,5,¡Me encanta este producto! lo mejor que he comprado este año.,positive
+64421,Home & Living,2024-08-07,DE,5,"Sehr gutes Produkt, bin sehr zufrieden. Gerne wieder!",positive
+42506,Sports,2024-01-24,FR,3,"Rien de spécial, commande correctement traitée.",neutral
+109251,Sports,2025-09-23,IE,3,It arrived on time. Quality is acceptable for the price.,neutral
+33966,Books,2023-11-05,US,5,Arrived ON time and works perfectly. Very satisfied.,positive
+63439,Sports,2024-07-29,FR,3,"Honnêtement, c'est passable. Pas sûr de recommander.",neutral
+33183,Sports,2023-10-29,FR,1,Service client catastrophique. Jamais plus!,negative
+117241,Beauty,2025-12-05,AU,5,Very pleased with this purchase. Quick delivery too!,positive
+91216,Electronics,2025-04-11,US,3,"Brilliant product, can't fault it at all.",positive
+16392,Books,2023-05-30,CH,1,"Mauvaise qualité, ne ressemble pas du tout aux photos.",negative
+37780,Food & Grocery,2023-12-11,FR,4,"Belle qualité, prix raisonnable. Très bonne expérience d'achat.",positive
+25690,Food & Grocery,2023-08-22,FR,5,"Parfait! Rien à redire, je commande à nouveau.",positive
+2688,Fashion,2023-01-25,IE,5,This is genuinely one of the best products I have bought online.,positive
+11687,Electronics,2023-04-16,IE,5,Fantastic item! Exceeded all my expectations.,positive
+43066,Books,2024-01-29,US,5,Outstanding customer experience from start to finish.,positive
+70699,Fashion,2024-10-04,US,1,Waste of money. Don't buy this product.,negative
+35273,Electronics,2023-11-17,DE,5,Super Qualität! Schnelle Lieferung. Sehr empfehlenswert.,positive
+111723,Sports,2025-10-14,DE,5,Wunderbar! Genau was ich gesucht habe.,positive
+25255,Books,2023-08-18,CA,2,Falsely advertised. I want my money back.,negative
+79237,Beauty,2024-12-21,BE,4,"Belle qualité, prix raisonnable. Très bonne expérience d'achat. 😊",positive
+92884,Electronics,2025-04-26,ES,5,Llegó en perfectas condiciones y es tal y como se describe.,positive
+2041,Food & Grocery,2023-01-18,FR,3,"Moyen. Le produit fait ce qu'il doit faire, ni plus ni moins.",neutral
+9411,Fashion,2023-03-26,ES,5,Me ha sorprendido gratamente. Muy buena compra.,positive
+76777,Home & Living,2024-11-28,GB,5,This is genuinely one OF the best products I have bought online.,positive
+2894,Electronics,2023-01-26,DE,3,"Lieferung war langsam, aber Produkt ist GUT.",neutral
+31291,Electronics,2023-10-13,US,5,Fantastic item! Exceeded all MY expectations.,positive
+3557,Sports,2023-02-01,GB,5,"EXCELLENT PRODUCT, highly recommend! BEST EVER!!!",positive
+81869,Electronics,2025-01-15,ES,3,Aceptable para el precio. No esperes calidad premium.,neutral
+76131,Food & Grocery,2024-11-22,FR,5,"Belle qualité, prix raisonnable. Très bonne expérience d'achat.",positive
+28238,Food & Grocery,2023-09-15,MX,5,Excelente calidad y envío rapidísimo. ¡Lo recomiendo a todos!,positive
+103682,Books,2025-08-03,US,3,I've used better products but this one is functional.,neutral
+92319,Home & Living,2025-04-21,ES,4,¡Fantástico! Supera todas mis expectativas. Cinco estrellas.,positive
+58453,Books,2024-06-14,GB,5,Really impressed with the build quality. Would buy again.,positive
+8749,Food & Grocery,2023-03-20,MX,5,¡Maravilloso! Toda la familia está encantada con el producto.,positive
+118428,Books,2025-12-16,US,4,"Solid build, attractive design, works as advertised. Love it.",positive
+88253,Fashion,2025-03-14,ES,3,Está bien. No es especial pero funciona como se describe.,neutral
+35825,Sports,2023-11-23,DE,5,Wunderbar! Genau was ich gesucht habe.,positive
+112631,Books,2025-10-23,ES,5,Ni bien ni mal. Hace lo que se supone que debe hacer.,neutral
+42051,Sports,2024-01-20,GB,2,Shocking quality for the price. Complete rip-off.,negative
+70374,Toys,2024-10-01,ES,4,Estoy muy satisfecho con este artículo. Funciona de maravilla.,positive
+98872,Beauty,2025-06-19,GB,4,Exactly what I was looking for. Great price.,positive
+59395,Food & Grocery,2024-06-23,ES,5,Llegó en perfectas condiciones y es tal y como se describe.,positive
+74292,Beauty,2024-11-06,CA,4,This is genuinely one of the best products I have bought online.,positive
+90693,Food & Grocery,2025-04-05,IE,4,Arrived on time and works perfectly. Very satisfied.,positive
+109994,Electronics,2025-09-29,FR,2,Produit inutilisable dès la première utilisation. Honteux.,negative
+108787,Sports,2025-09-18,US,4,Good value for money. Highly recommend it!,positive
+118849,Food & Grocery,2025-12-20,FR,4,Produit de très bonne qualité. Je recommande sans hésitation.,positive
+34746,Fashion,2023-11-13,AR,2,Pésima calidad. No se parece en nada a las fotos.,negative
+115503,Toys,2025-11-19,US,3,It's alright. Nothing to complain about really.,neutral
+36401,Electronics,2023-11-28,AT,4,Tolle Qualität und super Preis-Leistungs-Verhältnis. Empfehle es. 👍,positive
+89611,Electronics,2025-03-27,AU,5,"Amazing product, my whole family loves it. Thank you!",positive
+6352,Sports,2023-02-26,US,3,"Average product, nothing to write home about.",neutral
+55546,Fashion,2024-05-19,FR,4,"Produit reçu rapidement, bien emballé et conforme. Parfait.",positive
+116606,Fashion,2025-11-30,US,3,Fairly standard. Met MY basic expectations.,neutral
+24156,Toys,2023-08-09,BE,5,Qualité irréprochable et service client excellent. ⭐,positive
+48620,Electronics,2024-03-18,ES,4,Calidad premium a un precio justo. Muy satisfecho.,positive
+2990,Books,2023-01-27,US,5,"Top-notch quality, exactly what I needed.",positive
+107796,Toys,2025-09-09,GB,5,"EXCELLENT product, highly recommend! BEST EVER!!!",positive
+68468,Fashion,2024-09-14,CA,5,Good value for MONEY. Highly recommend it!,positive
+74235,Electronics,2024-11-05,AU,4,C'est correct pour le prix. lol,neutral
+111446,Books,2025-10-12,US,3,"Not bad, not great. Does what it needs to do.",neutral
+14476,Home & Living,2023-05-12,GB,5,Fantastic item! Exceeded all my expectations.,positive
+53399,Electronics,2024-04-29,FR,5,Je suis vraiment CONTENT de cet achat. Je recommande vivement.,positive
+37800,Toys,2023-12-11,GB,2,Customer service was rude and unhelpful. Never shopping here again.,negative
+53756,Fashion,2024-05-02,CA,2,Shocking quality for the price. Complete rip-off.,negative
+1523,Electronics,2023-01-14,CH,5,Vraiment impressionné par la qualité. Je rachèterai.,positive
+86758,Electronics,2025-02-28,AU,4,Very pleased with this purchase. Quick delivery too!,positive
+1939,Electronics,2023-01-18,CO,5,¡Increíble! Me encanta mucho.,positive
+96901,Sports,2025-06-01,GB,5,Product arrived quickly and looks exactly as DESCRIBED. Very happy.,positive
+14545,Sports,2023-05-13,GB,4,"Solid build, attractive design, works as advertised. Love it.",positive
+59579,Toys,2024-06-24,GB,5,Great value for money. Highly recommend to everyone.,positive
+31932,Books,2023-10-18,DE,3,"Brauchbar, aber nichts Besonderes. Drei Sterne.",neutral
+107421,Home & Living,2025-09-06,DE,4,Wunderbar! Genau was ich gesucht habe.,positive
+7337,Food & Grocery,2023-03-07,US,5,This is genuinely one of the best products I have bought online.,positive
+52703,Beauty,2024-04-23,US,3,Does the job. Not amazing but not bad either. ⭐,neutral
+23274,Electronics,2023-08-01,FR,2,Très déçu par la qualité. Je ne recommande pas.!,negative
+100455,Fashion,2025-07-04,US,5,"Solid build, attractive design, works AS advertised. Love it.!",positive
+70860,Beauty,2024-10-05,FR,4,Excellent rapport qualité-prix. Très satisfait de mon achat.,positive
+39145,Home & Living,2023-12-24,US,3,I've used better products but this one is functional.,neutral
+80682,Fashion,2025-01-04,GB,5,Product arrived quickly and looks exactly as described. Very happy.,positive
+8450,Toys,2023-03-18,US,2,Terrible experience. The item arrived broken and support was useless.,negative
+23707,Beauty,2023-08-05,AR,5,¡Increíble! Me encanta mucho.,positive
+69841,Food & Grocery,2024-09-26,MX,4,Excelente calidad y envío rapidísimo. ¡Lo recomiendo a todos!,positive
+22269,Beauty,2023-07-22,MX,5,Excelente calidad y envío rapidísimo. ¡Lo recomiendo a todos!,positive
+101914,Electronics,2025-07-18,DE,4,"Bin begeistert! Qualität top, Lieferung blitzschnell. ⭐",positive
+44431,Beauty,2024-02-11,AT,4,Fantastisches Produkt zu einem fairen Preis. Top!,positive
+26201,Sports,2023-08-27,FR,3,Livraison lente mais le produit est conforme. Acceptable.,neutral
+111937,Toys,2025-10-16,DE,2,Absoluter Betrug! Produkt nie erhalten. Finger weg!,negative
+18653,Electronics,2023-06-20,CO,4,Me ha sorprendido gratamente. Muy buena compra.,positive
+106812,Home & Living,2025-08-31,FR,4,"Livraison soignée, produit de qualité. Recommande fortement.",positive
+25803,Fashion,2023-08-23,IE,5,"Amazing product, my whole family loves it. Thank you!",positive
+106796,Beauty,2025-08-31,GB,4,Exactly what I was looking for. Great price.,positive
+93865,Toys,2025-05-05,CH,3,"Honnêtement, c'est passable. Pas sûr de recommander.",neutral
+67027,Books,2024-08-31,DE,3,Mittelmäßig. Habe Besseres für den Preis erwartet. 👍,neutral
+115428,Books,2025-11-18,AR,4,Calidad premium a un precio justo. Muy satisfecho.,positive
+81389,Electronics,2025-01-11,GB,3,C'est correct pour le PRIX. lol,neutral
+16294,Books,2023-05-29,FR,4,Qualité irréprochable et service client excellent.,positive
+45896,Books,2024-02-23,AR,3,Pasable. Hay mejores opciones en el mercado.,neutral
+111437,Toys,2025-10-12,US,5,Great value for money. Highly recommend to everyone.,positive
+47213,Food & Grocery,2024-03-05,FR,5,"Magnifique produit, ma famille adore. Merci beaucoup.",positive
+25218,Sports,2023-08-18,AU,5,Outstanding customer experience from start to finish.,positive
+63421,Books,2024-07-29,AT,5,Ausgezeichnetes Produkt. Übertrifft alle meine Erwartungen.,positive
+39257,Electronics,2023-12-25,US,3,I've used better products but this one is functional.,neutral
+18042,Fashion,2023-06-14,GB,5,"Superb quality, very sturdy AND well-made. Five stars.",positive
+88867,Beauty,2025-03-20,IE,5,"Top-notch quality, exactly what I needed.",positive
+102271,Books,2025-07-21,US,3,Acceptable quality. Could be improved.,neutral
+77158,Toys,2024-12-02,FR,3,"Qualité moyenne, rien d'exceptionnel mais ça fonctionne.",neutral
+6651,Food & Grocery,2023-03-01,FR,4,Ne ressemble pas du tout à la description. Complète arnaque.,negative
+61238,Toys,2024-07-09,FR,5,"Produit reçu rapidement, bien emballé et conforme. Parfait.",positive
+77212,Home & Living,2024-12-02,DE,4,Hervorragende Qualität. Würde ich sofort wieder kaufen.,positive
+36138,Home & Living,2023-11-25,US,4,Very pleased with this purchase. Quick delivery too!,positive
+99549,Sports,2025-06-26,ES,5,¡Maravilloso! Toda LA familia está encantada con el producto.,positive
+52780,Electronics,2024-04-23,FR,4,Service client catastrophique. Jamais plus!,negative
+12331,Food & Grocery,2023-04-22,DE,1,Produkt nach zwei Tagen kaputt. Totaler Schrott.,negative
+49966,Beauty,2024-03-30,CH,5,Je suis vraiment content de cet achat. Je recommande vivement.,positive
+22238,Food & Grocery,2023-07-22,AU,5,Absolutely love this product! Best purchase I've made this year.,positive
+22350,Food & Grocery,2023-07-23,DE,2,Sehr enttäuscht. Das Produkt ist kaputt angekommen.,negative
+95554,Sports,2025-05-20,IE,4,Arrived on time and works perfectly. Very satisfied. 😍,positive
+46082,Fashion,2024-02-25,ES,4,Calidad premium a un precio justo. Muy satisfecho.,positive
+7432,Toys,2023-03-09,AT,3,Geht so. Erfüllt seinen Zweck ausreichend.,neutral
+56753,Sports,2024-05-30,GB,3,Decent enough. Not sure I would buy it again though.,neutral
+17416,Home & Living,2023-06-08,DE,5,Super Qualität! Schnelle Lieferung. Sehr empfehlenswert. 👍,positive
+1593,Beauty,2023-01-15,DE,5,Wunderbar! Genau was ich gesucht habe.,positive
+14045,Food & Grocery,2023-05-08,AU,5,"Solid build, attractive design, works as advertised. Love it.",positive
+7752,Books,2023-03-11,FR,2,Très mauvaise expérience. Je demande un remboursement.,negative
+65275,Electronics,2024-08-15,MX,4,"Excelente producto, lo recomendaría sin dudarlo.",positive
+99735,Sports,2025-06-27,DE,4,Produkt ist genau wie beschrieben. Sehr schnelle Lieferung. 😊,positive
+38062,Electronics,2023-12-14,DE,4,Hervorragende Qualität. Würde ich sofort wieder kaufen.,positive
+73919,Home & Living,2024-11-02,US,4,Arrived on time and works perfectly. Very satisfied.,positive
+16790,Books,2023-06-02,DE,5,"Bin begeistert! Qualität top, Lieferung blitzschnell.",positive
+39139,Fashion,2023-12-24,ES,4,Calidad premium a un precio justo. Muy satisfecho.,positive
+66951,Books,2024-08-31,AT,5,Wunderbar! Genau was ich gesucht habe.,positive
+66068,Beauty,2024-08-22,US,2,Do NOT buy this. Cheap rubbish that breaks immediately.,negative
+111469,Toys,2025-10-12,ES,3,"Funciona, aunque la calidad deja algo que desear.",neutral
+54364,Fashion,2024-05-08,BE,5,Vraiment impressionné par la qualité. Je rachèterai.,positive
+48428,Books,2024-03-16,IE,4,This is genuinely one of the best products I have bought online. !!!,positive
+16002,Food & Grocery,2023-05-26,US,5,Arrived ON time and works perfectly. Very satisfied.,positive
+71060,Books,2024-10-07,US,1,Customer service was rude and unhelpful. Never shopping here again.,negative
+90985,Home & Living,2025-04-08,GB,5,"Superb quality, very sturdy and well-made. Five stars.",positive
+24011,Sports,2023-08-08,GB,2,WASTE of money. Don't buy this product.,negative
+72466,Food & Grocery,2024-10-20,CH,2,Service client catastrophique. Jamais plus!,negative
+36118,Books,2023-11-25,GB,5,Excellent quality and fast shipping. Will definitely buy again.,positive
+108670,Fashion,2025-09-17,DE,3,"Solide, aber unremarkabel. Würde ich nicht unbedingt empfehlen.",neutral
+79534,Toys,2024-12-24,AT,2,Furchtbar. Sofort zurückgeschickt. Komplette Geldverschwendung.,negative
+111690,Books,2025-10-14,CA,5,This is genuinely one of the best products I have bought online.,positive
+41438,Books,2024-01-14,AR,5,Envío rápido y producto en perfecto estado. Muy contento.,positive
+3183,Beauty,2023-01-29,FR,5,"Parfait! Rien à redire, je commande à nouveau.",positive
+16832,Electronics,2023-06-03,MX,4,Estoy muy satisfecho con este artículo. Funciona de maravilla.,positive
+805,Home & Living,2023-01-08,AR,3,Aceptable para el precio. No esperes calidad premium.,neutral
+113553,Toys,2025-11-01,GB,5,"Top-notch quality, exactly what I needed.",positive
+72148,Beauty,2024-10-17,IE,2,Extremely poor quality. Looks nothing like the picture.,negative
+58879,Beauty,2024-06-18,US,4,Great value for money. Highly recommend TO everyone.,positive
+90337,Sports,2025-04-02,MX,5,"EXCELENTE producto, lo recomendaría sin dudarlo.",positive
+21287,Sports,2023-07-14,US,3,Decent enough. Not sure I would buy it again though.,neutral
+65017,Electronics,2024-08-12,US,4,"Solid build, attractive design, works as advertised. Love it.",positive
+63251,Beauty,2024-07-27,DE,1,Skandalöse Qualität. Definitiv nicht seinen Preis wert.,negative
+28102,Sports,2023-09-13,FR,1,Service client catastrophique. Jamais plus!,negative
+56693,Electronics,2024-05-29,US,4,Absolutely love this product! Best purchase I've made this year.,positive
+29136,Fashion,2023-09-23,ES,4,¡Me encanta este producto! lo mejor que he comprado este año.,positive
+16518,Toys,2023-05-31,CH,2,Très mauvaise expérience. Je demande UN remboursement.,negative
+19444,Books,2023-06-27,US,5,Product arrived quickly and looks exactly as described. Very happy.,positive
+53692,Electronics,2024-05-02,DE,4,"Sehr schönes Produkt, die ganze Familie ist begeistert.",positive
+60998,Beauty,2024-07-07,FR,5,Excellent! Je suis très satisfait. Cinq étoiles méritées.,positive
+1600,Food & Grocery,2023-01-15,BE,4,Super produit! Exactly comme décrit. Livraison express. Bravo!,positive
+64908,Books,2024-08-11,US,5,Outstanding customer experience from start to finish.,positive
+91482,Home & Living,2025-04-13,AR,2,Terrible servicio al cliente. Jamás volvería a comprar aquí.,negative
+102533,Electronics,2025-07-23,ES,2,La peor compra de mi vida. Calidad lamentable.,negative
+8054,Fashion,2023-03-14,ES,2,Terrible servicio al cliente. Jamás volvería a comprar aquí.,negative
+42443,Beauty,2024-01-23,AT,1,Falsch beworben. Entspricht überhaupt nicht der Beschreibung.,negative
+2376,Toys,2023-01-21,DE,4,"Sehr gutes Produkt, bin sehr zufrieden. Gerne wieder!",positive
+15201,Toys,2023-05-19,GB,3,"Not bad, not great. Does what it needs to do.",neutral
+14318,Sports,2023-05-11,DE,3,"Solide, aber unremarkabel. Würde ich nicht unbedingt empfehlen.",neutral
+53512,Toys,2024-04-30,GB,4,Perfect gift idea. Delivery was speedy and packaging was great.,positive
+6233,Food & Grocery,2023-02-25,ES,4,Llegó en perfectas condiciones y es tal y como se describe.,positive
+100056,Electronics,2025-06-30,DE,1,Kundenservice unhöflich und nutzlos. Nie wieder!,negative
+83876,Sports,2025-02-02,ES,4,¡Maravilloso! Toda la familia está encantada con el producto.,positive
+63396,Fashion,2024-07-28,ES,2,Llegó dañado y el proceso de devolución fue una pesadilla.,negative
+96011,Sports,2025-05-25,DE,4,Ich liebe dieses Produkt! ⭐⭐⭐,positive
+107620,Books,2025-09-07,FR,1,Ne ressemble pas du tout à LA description. Complète arnaque.,negative
+101376,Toys,2025-07-13,FR,5,Super produit! Exactly comme décrit. Livraison express. Bravo!,positive
+65803,Books,2024-08-20,DE,2,Produkt nach zwei Tagen kaputt. Totaler SCHROTT.,negative
+111262,Food & Grocery,2025-10-10,US,3,It's alright. Nothing to complain about really.,neutral
+28268,Electronics,2023-09-15,AU,3,Does the job. Not amazing but not bad either.,neutral
+15207,Fashion,2023-05-19,US,2,The worst product I have ever purchased. Total disappointment.!,negative
+91679,Beauty,2025-04-15,AR,5,¡Fantástico! Supera todas mis expectativas. Cinco estrellas.,positive
+72429,Home & Living,2024-10-20,DE,4,"Sehr schönes Produkt, die ganze Familie ist begeistert.",positive
+117314,Beauty,2025-12-06,GB,5,Good value FOR money. Highly recommend it! ⭐,positive
+66748,Books,2024-08-29,FR,4,Produit de très bonne qualité. Je recommande sans hésitation.,positive
+40338,Sports,2024-01-04,CA,3,C'est correct pour le prix. LOL,neutral
+4405,Fashion,2023-02-09,ES,5,Excelente calidad y envío rapidísimo. ¡Lo recomiendo a todos!,positive
+114216,Sports,2025-11-07,AU,2,Waste of money. Don't buy this product.,negative
+79999,Electronics,2024-12-28,AT,1,Produkt nach zwei Tagen kaputt. Totaler Schrott. 😊,negative
+3904,Books,2023-02-05,ES,2,La peor compra de mi vida. Calidad lamentable.,negative
+2505,Books,2023-01-23,ES,5,Calidad premium a un precio justo. Muy satisfecho. !!!,positive
+57701,Food & Grocery,2024-06-07,MX,4,¡Me encanta este producto! lo mejor que he comprado este año.,positive
+51842,Toys,2024-04-15,DE,3,"Ganz in Ordnung. Nicht besonders, aber es erfüllt seinen Zweck.",neutral
+20832,Toys,2023-07-09,US,5,Really impressed with the build quality. Would buy again.,positive
+78606,Home & Living,2024-12-16,GB,5,Really impressed with the build quality. Would buy again.,positive
+59858,Books,2024-06-27,MX,5,Calidad PREMIUM a un precio justo. Muy satisfecho. ⭐,positive
+33595,Beauty,2023-11-02,FR,5,Très déçu par la qualité. Je NE recommande pas.,negative
+116264,Fashion,2025-11-26,GB,5,This is genuinely one of the best products I have bought online.,positive
+11266,Books,2023-04-12,AU,4,"EXCELLENT product, highly recommend! BEST EVER!!!",positive
+104992,Food & Grocery,2025-08-15,US,2,Extremely poor quality. Looks nothing like the picture.,negative
+118389,Fashion,2025-12-15,CH,3,Produit basique. Satisfait à moitié.,neutral
+34181,Food & Grocery,2023-11-07,CA,5,Perfect gift idea. Delivery was speedy and packaging was great.,positive
+39831,Electronics,2023-12-30,DE,3,Akzeptable Qualität. Könnte besser sein.,neutral
+57464,Beauty,2024-06-05,GB,3,Fairly standard. Met my basic expectations.,neutral
+17966,Books,2023-06-13,US,5,"Brilliant product, can't fault it at all.",positive
+32181,Sports,2023-10-21,CH,2,Ne ressemble pas du tout à la description. Complète arnaque.,negative
+66899,Food & Grocery,2024-08-30,US,2,The worst product I have ever purchased. Total disappointment.,negative
+13140,Home & Living,2023-04-30,FR,3,"Honnêtement, c'est passable. Pas sûr de recommander.",neutral
+106121,Beauty,2025-08-25,ES,5,Estoy muy satisfecho con este artículo. Funciona de maravilla.,positive
+52181,Food & Grocery,2024-04-18,FR,5,"Magnifique produit, ma famille adore. Merci beaucoup.",positive
+57409,Toys,2024-06-05,US,5,"Solid build, attractive design, works as advertised. Love it.",positive
+95179,Sports,2025-05-17,AT,4,"Sehr gutes Produkt, bin sehr zufrieden. Gerne wieder!",positive
+100997,Fashion,2025-07-09,FR,3,C'est correct pour le prix. lol,neutral
+45205,Beauty,2024-02-17,CH,5,Livraison rapide et produit CONFORME à la description. Parfait! 👍,positive
+49312,Home & Living,2024-03-24,US,5,"Solid build, attractive design, works as advertised. Love it.",positive
+95842,Home & Living,2025-05-23,FR,4,"Magnifique produit, ma famille adore. Merci beaucoup.",positive
+7396,Food & Grocery,2023-03-08,FR,2,"Mauvaise qualité, ne ressemble pas du tout aux photos.",negative
+39524,Toys,2023-12-28,CA,5,Very pleased with this purchase. Quick delivery too!,positive
+64954,Electronics,2024-08-12,GB,4,This is genuinely one of the best products I have bought online.,positive
+55633,Electronics,2024-05-20,FR,2,Délai de livraison excessif et produit endommagé. 1 étoile. !!!,negative
+112752,Sports,2025-10-24,GB,5,"Speedy delivery, well packaged, and exactly as described.",positive
+16618,Sports,2023-06-01,CA,4,"EXCELLENT product, highly recommend! BEST EVER!!!",positive
+48422,Books,2024-03-16,ES,4,¡Me encanta este producto! lo mejor que he comprado este año. 😍,positive
+78077,Home & Living,2024-12-11,GB,5,Outstanding customer experience from start to finish.,positive
+26444,Books,2023-08-29,DE,1,Produkt nach zwei Tagen kaputt. Totaler Schrott.,negative
+68872,Fashion,2024-09-17,AT,5,Perfekte Verarbeitung. Sieht noch besser aus als auf dem Foto.,positive
+119009,Home & Living,2025-12-21,IE,5,This is genuinely one of the best products I have bought online.,positive
+89975,Home & Living,2025-03-30,FR,5,"Très bon produit, FONCTIONNE parfaitement. MERCI!",positive
+31881,Home & Living,2023-10-18,ES,5,¡INCREÍBLE! Me encanta mucho.,positive
+8397,Food & Grocery,2023-03-17,US,3,Three stars — meets the minimum expectations.,neutral
+109730,Home & Living,2025-09-27,DE,3,"Ganz in Ordnung. Nicht besonders, aber es erfüllt seinen Zweck.",neutral
+38523,Electronics,2023-12-18,ES,1,Producto inútil que se rompió al segundo día. No lo recomiendo.,negative
+22081,Beauty,2023-07-21,GB,4,Very pleased with this purchase. Quick delivery too!,positive
+1861,Fashion,2023-01-17,US,3,It is okay. Nothing special but it works as described.,neutral
+110402,Toys,2025-10-02,AT,3,Akzeptable Qualität. Könnte besser sein.,neutral
+71524,Books,2024-10-12,DE,3,In Ordnung. Bin weder begeistert noch enttäuscht.,neutral
+97410,Electronics,2025-06-06,GB,4,Exactly what I was looking for. Great price.,positive
+8777,Fashion,2023-03-21,FR,5,Produit de très bonne qualité. Je recommande sans hésitation.,positive
+58185,Fashion,2024-06-11,US,5,Fantastic item! Exceeded all my expectations.,positive
+85823,Books,2025-02-20,FR,5,Très content de mon achat. Le produit est encore mieux en vrai.,positive
+52867,Food & Grocery,2024-04-24,US,5,Perfect gift idea. Delivery was speedy and PACKAGING was great.,positive
+19697,Home & Living,2023-06-29,FR,5,"Très bon produit, fonctionne parfaitement. MERCI!",positive
+129,Food & Grocery,2023-01-02,FR,5,"Belle qualité, prix raisonnable. Très bonne expérience d'achat.",positive
+49343,Electronics,2024-03-25,FR,5,Très content de mon achat. Le produit est encore mieux en vrai.,positive
+68793,Fashion,2024-09-16,AR,3,Tres estrellas. Podría mejorar en varios aspectos.,neutral
+41640,Food & Grocery,2024-01-16,ES,4,ENVÍO rápido y producto en perfecto estado. Muy contento.,positive
+69138,Books,2024-09-20,DE,5,Bin sehr happy mit dem Kauf. Alles wie beschrieben.,positive
+60591,Toys,2024-07-03,DE,2,Skandalöse Qualität. Definitiv nicht seinen Preis wert.,negative
+31169,Home & Living,2023-10-12,ES,5,"Perfecto, nada que reprochar. Volvería a comprar.",positive
+104882,Home & Living,2025-08-14,GB,5,"Amazing product, my whole family loves it. Thank you!",positive
+111631,Books,2025-10-14,AT,5,"Bin begeistert! Qualität top, Lieferung blitzschnell.",positive
+52126,Electronics,2024-04-18,DE,3,"Solide, aber unremarkabel. Würde ich nicht unbedingt empfehlen.",neutral
+75385,Home & Living,2024-11-16,ES,5,"Producto perfecto, llegó antes de lo esperado. Muy contento.",positive
+109608,Food & Grocery,2025-09-26,GB,5,Arrived on time and works perfectly. Very satisfied.,positive
+75007,Fashion,2024-11-12,AT,1,Katastrophale Erfahrung. Ich möchte mein Geld zurück.,negative
+49027,Fashion,2024-03-22,IE,5,"EXCELLENT product, highly recommend! BEST EVER!!! 😍",positive
+55320,Sports,2024-05-17,GB,3,"Average product, nothing to write home about.",neutral
+70974,Sports,2024-10-06,US,5,Absolutely love this product! Best purchase I've made this year. 😊,positive
+83984,Sports,2025-02-03,AU,4,Product arrived quickly and looks exactly as described. Very happy. ⭐,positive
+97755,Books,2025-06-09,FR,5,Je suis vraiment content de cet achat. Je recommande vivement.,positive
+72725,Books,2024-10-22,ES,5,¡ME encanta este producto! lo mejor que he comprado este año.,positive
+94995,Electronics,2025-05-15,FR,5,"Belle qualité, prix raisonnable. Très bonne expérience d'achat.",positive
+40283,Beauty,2024-01-04,DE,5,Super Qualität! Schnelle Lieferung. Sehr empfehlenswert.,positive
+81603,Food & Grocery,2025-01-13,ES,5,Calidad excepcional para el precio. Muy recomendable.,positive
+79996,Home & Living,2024-12-28,MX,4,¡Increíble! Me encanta mucho.,positive
+33575,Sports,2023-11-02,DE,4,Lieferung war schnell und das Produkt ist ausgezeichnet!,positive
+74391,Beauty,2024-11-07,US,5,"Amazing product, my whole family loves it. Thank you!",positive
+8761,Beauty,2023-03-20,FR,1,Qualité déplorable. Retourné immédiatement.,negative
+39610,Beauty,2023-12-28,US,4,Very pleased with this purchase. Quick delivery too!,positive
+73622,Electronics,2024-10-31,FR,5,Excellent rapport qualité-prix. Très satisfait de mon achat.,positive
+2133,Sports,2023-01-19,ES,2,Llegó dañado y el proceso de devolución fue una pesadilla.,negative
+74151,Books,2024-11-05,AU,1,Extremely poor quality. Looks nothing like the picture.,negative
+67625,Home & Living,2024-09-06,DE,3,Produkt ist okay. Lieferung dauerte etwas länger.,neutral
+39012,Sports,2023-12-23,GB,4,"Solid build, attractive design, works as advertised. Love it.",positive
+46956,Beauty,2024-03-03,GB,4,"Top-notch quality, exactly what I needed.",positive
+63163,Fashion,2024-07-26,BE,4,"Parfait! Rien à redire, je commande à nouveau.",positive
+100551,Books,2025-07-05,AT,4,Tolle Qualität und super Preis-Leistungs-Verhältnis. Empfehle es.,positive
+102630,Food & Grocery,2025-07-24,ES,5,¡Maravilloso! Toda la familia está encantada con el producto.,positive
+104431,Food & Grocery,2025-08-10,FR,2,Arnaque! Produit jamais reçu. Évitez absolument.,negative
+981,Books,2023-01-09,CH,4,"Parfait! Rien à redire, je commande à nouveau.",positive
+71049,Books,2024-10-07,FR,5,"Belle qualité, prix raisonnable. Très bonne expérience d'achat.",positive
+117417,Home & Living,2025-12-07,FR,5,"Produit reçu rapidement, bien emballé et conforme. Parfait.",positive
+98979,Fashion,2025-06-20,ES,5,Calidad excepcional para el precio. Muy recomendable.,positive
+93435,Food & Grocery,2025-05-01,US,3,It is okay. Nothing special but it works as described.,neutral
+18186,Sports,2023-06-15,DE,5,"Bin begeistert! Qualität top, Lieferung blitzschnell.",positive
+3687,Home & Living,2023-02-03,US,5,"Speedy delivery, well packaged, and exactly as described.",positive
+34035,Beauty,2023-11-06,AU,4,Exactly what I was looking for. Great price.,positive
+87407,Home & Living,2025-03-06,GB,5,Very pleased with this purchase. Quick delivery too!,positive
+92791,Sports,2025-04-25,AU,5,"Superb quality, very sturdy and well-made. Five stars.",positive
+101602,Books,2025-07-15,GB,3,Decent enough. Not sure I would buy it again THOUGH.,neutral
+46461,Electronics,2024-02-28,DE,2,Katastrophale Erfahrung. Ich möchte mein Geld zurück.,negative
+43830,Home & Living,2024-02-05,DE,5,Lieferung war schnell und das Produkt ist ausgezeichnet!,positive
+105235,Food & Grocery,2025-08-17,FR,5,"Belle qualité, prix raisonnable. Très bonne expérience d'achat.",positive
+65623,Toys,2024-08-18,GB,3,Okay for the price. Don't expect premium quality.,neutral
+29526,Books,2023-09-27,CH,5,Qualité irréprochable et service client excellent.,positive
+112584,Electronics,2025-10-22,GB,5,Great value for money. Highly recommend to everyone.,positive
+81426,Beauty,2025-01-11,DE,5,Hervorragende Qualität. Würde ich sofort wieder kaufen.,positive
+68415,Electronics,2024-09-13,GB,4,Great value for money. Highly recommend to everyone.,positive
+40791,Toys,2024-01-08,FR,5,Super produit! Exactly comme décrit. Livraison express. Bravo!,positive
+58429,Books,2024-06-14,IE,4,Outstanding customer experience from start to finish.,positive
+30480,Toys,2023-10-05,GB,5,Absolutely love this product! Best purchase I've made this year.,positive
+24330,Beauty,2023-08-10,FR,5,TRÈS content de mon achat. Le produit est encore mieux en vrai.,positive
+37014,Beauty,2023-12-04,FR,3,Dans la moyenne. Rien ne m'a particulièrement déçu ou IMPRESSIONNÉ.,neutral
+24187,Fashion,2023-08-09,US,4,Really impressed with the build quality. Would buy again.,positive
+20630,Books,2023-07-07,GB,4,Outstanding customer experience from start to finish.,positive
+40859,Books,2024-01-09,DE,5,Lieferung war schnell und das Produkt ist ausgezeichnet!,positive
+32535,Food & Grocery,2023-10-24,DE,5,"Sehr gutes Produkt, bin sehr zufrieden. Gerne wieder!",positive
+40535,Toys,2024-01-06,ES,2,Publicidad engañosa. Quiero MI dinero de vuelta.,negative
+187,Food & Grocery,2023-01-02,AU,5,Product arrived quickly and looks exactly as described. Very happy.,positive
+6751,Beauty,2023-03-02,ES,5,¡Fantástico! Supera todas mis expectativas. Cinco estrellas.,positive
+17003,Toys,2023-06-04,GB,4,Excellent QUALITY and fast shipping. Will definitely buy again.,positive
+104430,Beauty,2025-08-10,US,4,This is genuinely one of the best products I have bought online. 😊,positive
+53154,Sports,2024-04-27,US,5,Good value for money. Highly recommend it!,positive
+40591,Toys,2024-01-06,US,4,"Brilliant product, can't fault it at all.",positive
+45922,Beauty,2024-02-23,DE,5,"Erstklassige Qualität, sehr zufrieden. Gerne wieder.",positive
+94365,Sports,2025-05-09,DE,4,Super Qualität! Schnelle Lieferung. SEHR empfehlenswert. ⭐,positive
+110408,Fashion,2025-10-03,DE,4,Ausgezeichnetes Produkt. Übertrifft alle meine Erwartungen.,positive
+61449,Toys,2024-07-11,IE,3,Product is as described. Shipping took longer than expected.,neutral
+90290,Sports,2025-04-02,AU,5,Fantastic item! Exceeded all my expectations.,positive
+82452,Food & Grocery,2025-01-20,US,5,"Amazing product, my whole family loves it. Thank you!",positive
+103055,Fashion,2025-07-28,ES,5,Llegó en perfectas condiciones y es tal y como se describe.,positive
+64291,Books,2024-08-06,IE,5,"EXCELLENT product, highly recommend! BEST EVER!!!",positive
+113071,Sports,2025-10-27,US,1,Customer service was rude and unhelpful. Never shopping here again.,negative
+43494,Sports,2024-02-02,DE,5,"Sehr gutes Produkt, bin sehr zufrieden. Gerne wieder!",positive
+56525,Fashion,2024-05-27,DE,4,Produkt ist genau wie beschrieben. Sehr schnelle Lieferung.,positive
+33397,Beauty,2023-10-31,US,5,"Brilliant product, can't fault it at all.",positive
+25505,Toys,2023-08-21,GB,5,Great value for money. Highly recommend to everyone.,positive
+30665,Fashion,2023-10-07,CA,3,C'est correct pour le prix. lol,neutral
+49792,Beauty,2024-03-28,CO,5,Calidad excepcional para el precio. Muy recomendable.,positive
+60648,Fashion,2024-07-04,GB,5,"Superb quality, very sturdy and well-made. Five stars.",positive
+15767,Fashion,2023-05-24,GB,5,"Speedy delivery, well packaged, AND exactly as described.",positive
+108427,Food & Grocery,2025-09-15,GB,1,"Speedy delivery, well packaged, and exactly as described.",positive
+79126,Toys,2024-12-20,CA,2,The worst product I have ever purchased. Total disappointment.,negative
+2539,Fashion,2023-01-23,DE,5,Tolle Qualität und super Preis-Leistungs-Verhältnis. Empfehle es.,positive
+62756,Toys,2024-07-23,DE,5,"BIN begeistert! Qualität top, Lieferung blitzschnell.",positive
+57450,Home & Living,2024-06-05,MX,5,¡Fantástico! Supera todas mis expectativas. Cinco estrellas.,positive
+91460,Food & Grocery,2025-04-13,CO,4,"Perfecto, nada que reprochar. Volvería a comprar.",positive
+19806,Toys,2023-06-30,GB,5,Waste of money. Don't buy this product.,negative
+81208,Sports,2025-01-09,US,2,Shocking quality for the price. Complete rip-off.,negative
+34691,Home & Living,2023-11-12,US,5,Waste of money. Don't buy this product.,negative
+35909,Beauty,2023-11-23,US,1,Shocking quality for the price. Complete rip-off.,negative
+44708,Sports,2024-02-13,US,5,Extremely poor quality. Looks nothing like the picture.,negative
+14121,Beauty,2023-05-09,FR,4,Produit inutilisable dès la première utilisation. Honteux.,negative
+63050,Electronics,2024-07-25,CO,4,"Excelente producto, lo recomendaría sin dudarlo.",positive
+22916,Sports,2023-07-28,FR,4,"Magnifique produit, ma famille adore. Merci beaucoup.",positive
+71393,Sports,2024-10-10,ES,5,"Producto perfecto, llegó antes de lo esperado. Muy contento.!",positive
+81740,Sports,2025-01-14,US,2,Customer service was rude and unhelpful. Never shopping here again.,negative
+24371,Fashion,2023-08-10,GB,5,Really impressed with the build quality. Would buy again.,positive
+104597,Food & Grocery,2025-08-11,BE,4,"Belle qualité, prix raisonnable. Très BONNE expérience d'achat.",positive
+788,Books,2023-01-08,US,4,"Top-notch quality, exactly what I needed.",positive
+102182,Books,2025-07-20,US,4,"Amazing product, my whole family loves it. Thank you!",positive
+25513,Beauty,2023-08-21,MX,3,Aceptable para el precio. No esperes calidad premium.,neutral
+50002,Beauty,2024-03-30,DE,5,Super Qualität! Schnelle Lieferung. Sehr empfehlenswert. ⭐,positive
+2321,Books,2023-01-21,DE,2,Furchtbar. Sofort zurückgeschickt. Komplette Geldverschwendung.,negative
+62297,Toys,2024-07-19,DE,4,Wunderbar! Genau was ich gesucht habe.,positive
+36203,Food & Grocery,2023-11-26,US,4,"Top-notch quality, exactly what I needed.",positive
+102885,Home & Living,2025-07-27,DE,5,Super Qualität! Schnelle Lieferung. Sehr empfehlenswert.,positive
+104783,Fashion,2025-08-13,US,5,Fantastic item! Exceeded all my expectations.,positive
+58624,Home & Living,2024-06-16,GB,4,Perfect GIFT idea. Delivery was speedy and packaging was great.,positive
+18413,Sports,2023-06-17,FR,5,"Livraison soignée, produit de qualité. Recommande fortement.",positive
+67182,Sports,2024-09-02,GB,5,"Amazing product, my whole family loves it. Thank you!",positive
+107361,Food & Grocery,2025-09-05,FR,5,"PRODUIT reçu rapidement, bien emballé et conforme. Parfait.",positive
+115019,Beauty,2025-11-15,FR,1,Délai de livraison excessif et produit endommagé. 1 étoile.,negative
+47808,Fashion,2024-03-10,AR,5,"Perfecto, nada que reprochar. Volvería a comprar.",positive
+18743,Toys,2023-06-21,FR,5,"Produit reçu rapidement, bien emballé et conforme. Parfait.",positive
+53794,Sports,2024-05-03,FR,5,Excellent! Je suis très satisfait. Cinq étoiles méritées.,positive
+96989,Toys,2025-06-02,MX,4,Calidad excepcional para el precio. Muy recomendable.,positive
+80687,Food & Grocery,2025-01-04,MX,1,Muy buena relación calidad-precio. Repetiré la compra.,positive
+18272,Home & Living,2023-06-16,ES,5,¡Fantástico! Supera todas mis expectativas. Cinco estrellas.,positive
+46277,Toys,2024-02-26,FR,5,Je suis vraiment content de cet achat. Je recommande vivement.,positive
+42169,Beauty,2024-01-21,FR,5,"Parfait! Rien à redire, je commande à nouveau.",positive
+23728,Beauty,2023-08-05,AT,5,Perfekte Verarbeitung. Sieht noch besser aus als auf dem Foto.,positive
+74170,Food & Grocery,2024-11-05,FR,5,Vraiment impressionné par la qualité. Je rachèterai.,positive
+55329,Home & Living,2024-05-17,DE,3,"Ganz in Ordnung. Nicht besonders, aber es erfüllt seinen Zweck.",neutral
+25078,Fashion,2023-08-17,US,5,"EXCELLENT product, highly recommend! BEST EVER!!!",positive
+68344,Home & Living,2024-09-12,GB,5,"Amazing product, my whole family loves it. Thank you!",positive
+13996,Toys,2023-05-08,DE,5,Perfekte Verarbeitung. Sieht noch besser aus als auf dem Foto. ⭐,positive
+19981,Electronics,2023-07-02,CA,2,Waste of money. Don't buy this product. 😊,negative
+17918,Beauty,2023-06-13,DE,5,"Sehr schönes Produkt, die ganze Familie ist begeistert.",positive
+96032,Electronics,2025-05-25,FR,2,Arnaque! Produit jamais reçu. Évitez absolument.,negative
+106850,Food & Grocery,2025-08-31,GB,5,"Solid build, attractive design, works as advertised. Love it.",positive
+49662,Electronics,2024-03-27,CA,5,Good value for money. Highly recommend it!,positive
+76344,Sports,2024-11-24,GB,5,Exactly what I was looking for. Great price.,positive
+112878,Food & Grocery,2025-10-25,US,4,Perfect gift idea. Delivery was speedy and packaging was great.,positive
+6849,Books,2023-03-03,US,2,The worst product I have ever purchased. Total disappointment.,negative
+8927,Sports,2023-03-22,CO,3,Un desastre absoluto. Lo devolví inmediatamente.,negative
+71002,Sports,2024-10-07,FR,4,Super produit! Exactly comme décrit. Livraison express. Bravo!,positive
+25647,Books,2023-08-22,US,5,The worst product I have ever purchased. Total disappointment.,negative
+18766,Toys,2023-06-21,US,4,"EXCELLENT product, highly recommend! BEST EVER!!! !!!",positive
+23746,Books,2023-08-05,DE,3,Mittelmäßig. Habe Besseres für den Preis erwartet.,neutral
+118978,Beauty,2025-12-21,FR,4,Super produit! Exactly comme décrit. Livraison express. Bravo!,positive
+49887,Beauty,2024-03-29,FR,2,Service client catastrophique. Jamais plus!,negative
+74795,Fashion,2024-11-10,CA,4,Product arrived quickly and looks exactly as described. Very happy.,positive
+81761,Beauty,2025-01-14,GB,4,"Superb quality, very sturdy and well-made. Five stars.",positive
+88408,Food & Grocery,2025-03-16,US,4,Outstanding customer experience from start to finish.,positive
+87223,Food & Grocery,2025-03-04,US,5,"Brilliant product, can't fault it at all.",positive
+448,Beauty,2023-01-04,US,5,"Brilliant product, can't fault it at all.",positive
+59457,Fashion,2024-06-23,DE,2,Sehr enttäuscht. Das Produkt ist kaputt angekommen.,negative
+14278,Toys,2023-05-10,DE,5,Produkt ist genau wie beschrieben. Sehr schnelle Lieferung.,positive
+10300,Books,2023-04-03,US,5,"EXCELLENT product, highly recommend! BEST EVER!!!",positive
+66230,Electronics,2024-08-24,GB,4,Excellent quality and fast shipping. Will definitely buy again.,positive
+48411,Fashion,2024-03-16,AR,3,Producto básico. Cumple su función sin más.,neutral
+8769,Books,2023-03-20,CA,5,"Brilliant product, can't fault it at all. ⭐",positive
+44127,Fashion,2024-02-08,DE,4,Sehr enttäuscht. Das Produkt ist kaputt angekommen.,negative
+10121,Books,2023-04-02,US,4,Good value for money. HIGHLY recommend it!,positive
+71402,Electronics,2024-10-10,US,4,"Solid build, attractive design, works as advertised. Love it.",positive
+51583,Toys,2024-04-13,US,5,Great value for money. Highly recommend to everyone.,positive
+38081,Food & Grocery,2023-12-14,IE,1,Poor quality. Fell apart after two days of normal use.,negative
+23527,Sports,2023-08-03,IE,4,Really impressed with the build quality. Would buy again.,positive
+70110,Books,2024-09-28,AU,4,Outstanding customer experience from start to finish.,positive
+86918,Books,2025-03-02,CA,5,Product arrived quickly and looks exactly as described. Very happy.,positive
+33806,Books,2023-11-04,IE,5,Great value for money. HIGHLY recommend to everyone.,positive
